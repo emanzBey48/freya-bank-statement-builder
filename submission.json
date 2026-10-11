@@ -7,7 +7,7 @@
     }
   ],
   "repo": "https://github.com/emanzBey48/freya-bank-statement-builder",
-  "commit": "FILL_IN_COMMIT_SHA",
+  "commit": "d06d6a38e58dce2ed1e0a650af286da43ee9c660",
   "run_command": "python3 builder/final_case.py {case_folder}",
   "workflow": "submission/final.workflow.json",
   "trace": "traces/final-case-20261011-221307.log",
