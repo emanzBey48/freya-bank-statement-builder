@@ -1,0 +1,15 @@
+{
+  "name": "freya-bank-statement-mock",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "scripts": {
+    "dev": "wrangler dev",
+    "deploy": "wrangler deploy",
+    "whoami": "wrangler whoami",
+    "dashboard:build": "python build-dashboard-worker.py"
+  },
+  "devDependencies": {
+    "wrangler": "latest"
+  }
+}

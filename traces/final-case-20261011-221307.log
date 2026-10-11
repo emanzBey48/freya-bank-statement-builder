@@ -1,0 +1,20 @@
+Final case builder trace
+start: 2026-10-11 22:13:07 Türkiye Standart Saati
+case_folder: C:\Users\maymun 14\Desktop\build-the-builder\Build the Builder - Final Case
+run_command: python3 builder/final_case.py {case_folder}
+mock_url: https://freya-bank-statement-mock.genctrader48.workers.dev
+model calls: none; source-driven deterministic workflow compiler
+sources read: 10
+source files: BRIEF.md, README.md, sources\documents\2025-08-14-cards-faq.md, sources\documents\2026-09-10-ivr-prompt-sheet.md, sources\documents\2026-10-01-service-contract.md, sources\emails\attachments\2026-09-02-statement-debt-analysis.md, sources\emails\attachments\2026-10-08-statement-debt-analysis.md, sources\emails\2026-09-24-kickoff-questions.txt, sources\emails\2026-10-09-decisions-recap.txt, sources\meetings\2026-10-07-analysis-session-transcript.txt
+authoritative sources embedded: BRIEF.md, sources\emails\attachments\2026-10-08-statement-debt-analysis.md, sources\emails\2026-10-09-decisions-recap.txt, sources\documents\2026-10-01-service-contract.md
+workflow: C:\Users\maymun 14\Desktop\build-the-builder\submission\final.workflow.json
+nodes: 6
+tools: 13
+local compile: success
+Freya workflow_id: 7d820f72-bf66-4d60-8571-c78fa8df1c23
+Freya agent_id: 0e134dcb-bb76-4ce2-a153-a524700a1e0a
+exported from Freya: C:\Users\maymun 14\Desktop\build-the-builder\submission\final.workflow.json
+self_test_result: not run
+end: 2026-10-11 22:16:27 Türkiye Standart Saati
+duration_seconds: 199.7
+result: success
